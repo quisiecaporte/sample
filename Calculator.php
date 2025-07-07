@@ -1,6 +1,6 @@
 <?php
 
-// This is main branch Calculator class update
+// This is main branch Calculator class update 2
 class Calculator
 {
     // properties
